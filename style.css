@@ -1,0 +1,38 @@
+body {
+    font-style: normal;
+}
+
+.category {
+    font-style: normal;
+    font-style: normal;
+    font-weight: bold;
+    color: gray;
+    text-decoration: underline;
+    text-underline-offset: 15px;
+}
+
+
+.Title {
+    padding-top: 1px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+h6 {
+    font-style: italic;
+    color: gray;
+}
+
+p {
+    font-size: 14px;
+    color: black;
+}
+
+.lists {
+    font-size: 14px;
+}
+ 
+span {
+    font-style: italic;
+    font-weight: bold;
+}
